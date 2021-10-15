@@ -5,7 +5,7 @@ import time
 
 
 def first_3_numbers():
-    length = random.randint(3, 3) #set your min and max (min, max)
+    length = random.randint(3, 3) 
     eval = "1","2","3","4","5","6","7","8","9","0"
 
 
@@ -13,7 +13,7 @@ def first_3_numbers():
 
 
 def last_4_numbers():
-    length = random.randint(4, 4) #set your min and max (min, max)
+    length = random.randint(4, 4) 
     eval = "1","2","3","4","5","6","7","8","9","0"
 
 
